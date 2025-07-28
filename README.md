@@ -47,25 +47,6 @@ project skripsi
                         +--> [LED & Buzzer Alert]
 ```
 
----
-
-## 📁 Struktur Folder
-
-```
-Sistem-Monitoring-Kebocoran-Gas-Berbasis-Internet-Of-Things/
-│
-├── kode_arduino/
-│   └── gas_monitoring.ino
-│
-├── dokumentasi/
-│   ├── diagram_flowchart.png
-│   └── laporan_skripsi.pdf
-│
-├── website_monitoring/
-│   └── index.html
-│
-└── README.md
-```
 
 ---
 
@@ -159,11 +140,11 @@ Kontribusi sangat diterima! Silakan fork repositori ini, buat fitur baru atau pe
 
 ---
 
-## 🙋‍♂️ Tim Pengembang
+## 🙋‍♂️ Pengembang
 
-| Nama                     | Peran                | LinkedIn            |
-| -------------------------| -------------------- | ------------------- |
-| Tengku Ryan AB           | Programmer & IoT Dev | [LinkedIn Teuku](#) |
+| Nama             | Peran                | LinkedIn                                                                 |
+|------------------|----------------------|--------------------------------------------------------------------------|
+| Tengku Ryan AB   | Programmer & IoT Dev | [Tengku Ryan AB](https://www.linkedin.com/in/tengku-ryan-adiansyah-bani) |
 
 
 ---
